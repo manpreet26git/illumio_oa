@@ -20,7 +20,7 @@ and the file containing tags may have "sv_P1" corresponding to 23, "tcp" and "sv
 3) From a shell run: python script.py --logs_file_path path_to_logs_file --tags_file_path path_to_tags_file
 
 **Output**:
-The required outputs of i) Count of each tag in tags file and a count of untagged logs ii) Count of each destination port and protocol in the tags file
+The required outputs of i) Count of each tag in **tags file** and a count of untagged logs ii) Count of each destination port and protocol in the **tags file**
 
 **Errors accounted for**:
 1) Missing Command-line Arguments
